@@ -339,4 +339,7 @@
     .copyright{
         text-align: center;
     }
+    .copyright p{
+        width: auto;
+    }
 }
